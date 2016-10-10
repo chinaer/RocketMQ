@@ -42,7 +42,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 
 /**
- * @author shijia.wxr
+ * @author shijia.wxr 文件保存
  */
 public class MapedFile extends ReferenceResource {
     public static final int OS_PAGE_SIZE = 1024 * 4;
